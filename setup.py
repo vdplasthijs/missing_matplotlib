@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="missmat",
+    name="missmate",
     version="0.1.0",
     author="Thijs van der Plas",
     description="Simple functions to complement matplotlib",

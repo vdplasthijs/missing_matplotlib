@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "missmat"
+name = "missmate"
 version = "0.1.0"
 description = "Simple functions to complement matplotlib"
 authors = ["Thijs van der Plas"]
