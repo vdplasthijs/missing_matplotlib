@@ -7,7 +7,7 @@ setup(
     description="Simple functions to complement matplotlib",
     long_description=open("README.md").read(),  # Long description, usually from README
     long_description_content_type="text/markdown",  # Format of long description
-    url="https://github.com/vdplasthijs/missing_matplotlib",
+    url="https://github.com/vdplasthijs/missmat",
     packages=find_packages(),
     install_requires=[
         "numpy>=2.2.1",
