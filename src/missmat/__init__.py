@@ -9,7 +9,7 @@ from .vis_text import (
     set_fontsize, two_digit_sci_not, readable_p, readable_p_exact,
     readable_p_significance_statement
 )
-__version__ = version("missmate")
+__version__ = version("missmat")
 __author__= 'Thijs van der Plas'
 __description__ = 'Simple functions to complement matplotlib'
 __all__ = ['vis_axes', 'vis_text']
