@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="missmate",
-    version="0.1.0",
+    name="missmat",
+    version="0.1.1",
     author="Thijs van der Plas",
     description="Simple functions to complement matplotlib",
     long_description=open("README.md").read(),  # Long description, usually from README
@@ -22,6 +22,8 @@ setup(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
+        "Topic :: Scientific/Engineering :: Visualization",
+        "Framework :: Matplotlib"
     ],
     python_requires='>=3.10',
     zip_safe=False

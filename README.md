@@ -1,4 +1,4 @@
-# missmate
+# missmat
 Simple functions to complement matplotlib.
 
-missmate (missing matplotlib) is imported as `mim`
+missmat (missing matplotlib) is imported as `mim`

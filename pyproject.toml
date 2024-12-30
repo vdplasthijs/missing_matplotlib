@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "missmate"
-version = "0.1.0"
+name = "missmat"
+version = "0.1.1"
 description = "Simple functions to complement matplotlib"
 authors = ["Thijs van der Plas"]
 license = "MIT"
@@ -10,7 +10,9 @@ homepage = "https://github.com/vdplasthijs/missmat"
 classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
-        "Operating System :: OS Independent"
+        "Operating System :: OS Independent",
+        "Topic :: Scientific/Engineering :: Visualization",
+        "Framework :: Matplotlib"
     ]
     
 [tool.poetry.dependencies]

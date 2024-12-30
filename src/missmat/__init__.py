@@ -9,7 +9,7 @@ from .visualisation_text import (
     readable_p_significance_statement
 )
 
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 __author__= 'Thijs van der Plas'
 __description__ = 'Simple functions to complement matplotlib'
 __all__ = ['visualisation_axes', 'visualisation_text']
