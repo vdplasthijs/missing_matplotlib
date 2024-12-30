@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import copy
-import utils
+import missmat.vis_utils as vis_utils
 
 def despine(ax):
     '''Remove top and right spines'''

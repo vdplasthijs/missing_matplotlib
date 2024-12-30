@@ -1,7 +1,7 @@
 
 import matplotlib.pyplot as plt
 import numpy as np
-import utils
+import missmat.vis_utils as vis_utils
 
 def set_fontsize(font_size=12):
     '''Set font size for all text elements'''

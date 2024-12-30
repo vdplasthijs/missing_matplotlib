@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="missmat",
-    version="0.1.1",
+    version="0.1.2",
     author="Thijs van der Plas",
     description="Simple functions to complement matplotlib",
     long_description=open("README.md").read(),  # Long description, usually from README
